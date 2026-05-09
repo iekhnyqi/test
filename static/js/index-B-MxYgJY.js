@@ -1,0 +1,1 @@
+import{_ as s}from"./index-DZrtI4Nk.js";import{d as t,o as a,c as e,a as n}from"./index-6tgicYZ5.js";const o=t({name:"AboutDocumentApi",__name:"index",setup:t=>(t,o)=>{const m=s;return a(),e(m,{src:`${n("https://example.invalid")}/doc.html`},null,8,["src"])}});export{o as default};
