@@ -1,0 +1,1 @@
+import{_ as o}from"./index-B-ddWgLB.js";import{d as n,o as t,c as e}from"./index-BZl5fvTJ.js";const s=n({name:"AboutDocumentChangelog",__name:"index",setup:n=>(n,s)=>{const a=o;return t(),e(a,{src:"https://continew.top/docs/admin/changelog/"})}});export{s as default};

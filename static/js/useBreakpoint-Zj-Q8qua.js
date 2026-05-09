@@ -1,0 +1,1 @@
+import{d as e}from"./index-DR001XLW.js";import{b as n}from"./index-BZl5fvTJ.js";function r(){const r=e({xs:576,sm:576,md:768,lg:992,xl:1200,xxl:1600}).current();return{breakpoint:n(()=>r.value.length?r.value[r.value.length-1]:"xs")}}export{r as u};

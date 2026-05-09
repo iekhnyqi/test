@@ -1,0 +1,1 @@
+import{d as o,m as e,o as s,c as a,w as l,Q as m}from"./index-BZl5fvTJ.js";const r=o({name:"FilterFormRow",__name:"FilterFormRow",props:{model:{}},setup:o=>(r,t)=>{const d=e("a-form");return s(),a(d,{model:o.model,layout:"inline",class:"filter-form"},{default:l(()=>[m(r.$slots,"default")]),_:3},8,["model"])}});export{r as _};
