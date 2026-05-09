@@ -1,0 +1,1 @@
+import{d as a,o as s,t as o,Q as t,y as e}from"./index-DDe0lqcD.js";const c={class:"table-actions"},d=e(a({name:"TableActionGroup",__name:"TableActionGroup",setup:a=>(a,e)=>(s(),o("div",c,[t(a.$slots,"default",{},void 0,!0)]))}),[["__scopeId","data-v-a680a30c"]]);export{d as T};
