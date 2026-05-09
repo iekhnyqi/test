@@ -1,0 +1,1 @@
+import{d as a,C as e,k as s,o as t,t as r}from"./index-f0PLBBDt.js";const p=a({__name:"index",setup(a){const p=e(),n=s(),{params:o,query:d}=p,{path:u}=o;return n.replace({path:`/${u}`,query:d}),(a,e)=>(t(),r("div"))}});export{p as default};
